@@ -1,16 +1,103 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro
 
-<!--
-**alejocode96/alejocode96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Ingeniero de Sistemas** | 💻 **Desarrollador de Software & Web** | 📊 **Data Analyst** | 🤖 **IA & Agentes Autónomos**
 
-Here are some ideas to get you started:
+Soy ingeniero de sistemas con enfoque en el desarrollo de **aplicaciones web**, **APIs**, y soluciones tecnológicas basadas en **datos**, **inteligencia artificial** y **automatización inteligente**. Trabajo en la creación de sistemas robustos, escalables y orientados a la toma de decisiones, integrando análisis de datos, machine learning y agentes autónomos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 🔹 Desarrollo de **software web** (frontend y backend)
+- 🔹 Diseño y construcción de **APIs REST y microservicios**
+- 🔹 Análisis y modelado de datos para soporte a decisiones
+- 🔹 Implementación de soluciones con **IA generativa**
+- 🔹 Creación de **agentes y asistentes autónomos** (RAG, embeddings, LLMs)
+- 🔹 Enfoque en soluciones para entornos empresariales, analíticos y logísticos
+- 🔹 Buenas prácticas: código limpio, escalabilidad, seguridad y mantenibilidad
+
+---
+
+## 🧠 Áreas de experiencia
+
+- **Ingeniería de Software**
+- **Desarrollo Web & APIs**
+- **Análisis y visualización de datos**
+- **Inteligencia Artificial & Machine Learning**
+- **Agentes autónomos y asistentes inteligentes**
+- **Arquitecturas de microservicios**
+- **Automatización de procesos**
+- **Búsqueda semántica y sistemas RAG**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+- Python 🐍
+- JavaScript / TypeScript
+- SQL
+
+### Frameworks & Librerías
+- FastAPI / Flask
+- Node.js / Express
+- React.js
+- Pandas, NumPy, GeoPandas
+- Scikit-learn
+- LangChain / OpenAI API
+
+### Desarrollo Web & APIs
+- APIs RESTful
+- Autenticación y manejo de tokens (JWT)
+- Integración frontend–backend
+- Arquitecturas modulares y escalables
+
+### Datos & GIS
+- Análisis exploratorio de datos (EDA)
+- Visualización (Matplotlib, Folium)
+- Geoanálisis (H3, Shapely, GeoPandas)
+
+### IA & Automatización
+- LLMs y APIs de IA generativa
+- Embeddings y búsqueda semántica
+- Arquitecturas **RAG**
+- Agentes autónomos y asistentes inteligentes
+
+### DevOps & Otros
+- Git & GitHub
+- Docker
+- REST APIs
+- Diseño de software orientado a servicios
+
+---
+
+## 📂 Qué encontrarás en mis repositorios
+
+- 🌐 Proyectos de **desarrollo web y APIs**
+- 📊 Proyectos de análisis y visualización de datos
+- 🤖 Experimentos y soluciones con inteligencia artificial
+- 🧠 Agentes y asistentes autónomos
+- 🗺️ Análisis geoespacial y logístico
+- 🧪 Pruebas de concepto (PoC) y prototipos
+
+---
+
+## 🎯 En qué estoy enfocado actualmente
+
+- Desarrollo de **aplicaciones web con IA integrada**
+- Construcción de **APIs inteligentes** para análisis de datos
+- Desarrollo de **agentes autónomos** para toma de decisiones
+- Optimización de consultas mediante **embeddings y RAG**
+- Automatización de procesos analíticos y operativos
+
+---
+
+## 📫 Contacto
+
+- 💼 GitHub: [https://github.com/alejocode96](https://github.com/alejocode96)
+- 🔗 LinkedIn: [https://co.linkedin.com/in/diego-alejandro-galeano-madrigal](https://co.linkedin.com/in/diego-alejandro-galeano-madrigal)
+- ✉️ Email: galeanomadrigalalejandrogmail.com
+
+---
+
+⭐ *Siempre abierto a aprender, colaborar y construir soluciones tecnológicas inteligentes que generen impacto real.*
