@@ -5,6 +5,11 @@
 Soy ingeniero de sistemas con enfoque en el desarrollo de **aplicaciones web**, **APIs**, y soluciones tecnológicas basadas en **datos**, **inteligencia artificial** y **automatización inteligente**. Trabajo en la creación de sistemas robustos, escalables y orientados a la toma de decisiones, integrando análisis de datos, machine learning y agentes autónomos.
 
 ---
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+---
 
 ## 🚀 Sobre mí
 
