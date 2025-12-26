@@ -6,9 +6,8 @@ Soy ingeniero de sistemas con enfoque en el desarrollo de **aplicaciones web**, 
 
 ---
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 ---
 
 ## 🚀 Sobre mí
