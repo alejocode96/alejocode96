@@ -8,13 +8,13 @@ Soy ingeniero de sistemas con enfoque en el desarrollo de **aplicaciones web**, 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
-2. ⬆️ Pushed undefined commit(s) to [alejocode96/alejocode96](https://github.com/alejocode96/alejocode96)<br>
-3. ⬆️ Pushed undefined commit(s) to [alejocode96/alejocode96](https://github.com/alejocode96/alejocode96)<br>
+2. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
+3. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
 4. ⬆️ Pushed undefined commit(s) to [alejocode96/alejocode96](https://github.com/alejocode96/alejocode96)<br>
 5. ⬆️ Pushed undefined commit(s) to [alejocode96/alejocode96](https://github.com/alejocode96/alejocode96)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 29th, 2025, 1:46:38 AM
+Last Updated: Monday, December 29th, 2025, 12:42:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
