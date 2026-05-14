@@ -8,13 +8,13 @@ Soy ingeniero de sistemas con enfoque en el desarrollo de **aplicaciones web**, 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_Backend](https://github.com/alejocode96/LiriaCafe_Backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
-3. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
-4. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
-5. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
+2. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_Backend](https://github.com/alejocode96/LiriaCafe_Backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_Backend](https://github.com/alejocode96/LiriaCafe_Backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_Backend](https://github.com/alejocode96/LiriaCafe_Backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_Backend](https://github.com/alejocode96/LiriaCafe_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 14th, 2026, 2:57:57 AM
+Last Updated: Thursday, May 14th, 2026, 2:07:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
