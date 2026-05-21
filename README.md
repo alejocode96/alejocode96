@@ -11,10 +11,10 @@ Soy ingeniero de sistemas con enfoque en el desarrollo de **aplicaciones web**, 
 2. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_FrontEnd](https://github.com/alejocode96/LiriaCafe_FrontEnd)<br>
 3. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_FrontEnd](https://github.com/alejocode96/LiriaCafe_FrontEnd)<br>
 4. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_FrontEnd](https://github.com/alejocode96/LiriaCafe_FrontEnd)<br>
-5. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_Backend](https://github.com/alejocode96/LiriaCafe_Backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_FrontEnd](https://github.com/alejocode96/LiriaCafe_FrontEnd)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 20th, 2026, 3:16:34 PM
+Last Updated: Thursday, May 21st, 2026, 3:34:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
