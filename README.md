@@ -9,12 +9,12 @@ Soy ingeniero de sistemas con enfoque en el desarrollo de **aplicaciones web**, 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
 2. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
-3. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_FrontEnd](https://github.com/alejocode96/LiriaCafe_FrontEnd)<br>
+3. ⬆️ Pushed undefined commit(s) to [alejocode96/MyDevHub](https://github.com/alejocode96/MyDevHub)<br>
 4. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_FrontEnd](https://github.com/alejocode96/LiriaCafe_FrontEnd)<br>
-5. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_Backend](https://github.com/alejocode96/LiriaCafe_Backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [alejocode96/LiriaCafe_FrontEnd](https://github.com/alejocode96/LiriaCafe_FrontEnd)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 14th, 2026, 1:39:01 PM
+Last Updated: Wednesday, July 15th, 2026, 2:20:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
